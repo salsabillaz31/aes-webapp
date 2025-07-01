@@ -6,3 +6,4 @@ openai==1.92.0
 transformers
 torch
 scikit-learn
+plotly
