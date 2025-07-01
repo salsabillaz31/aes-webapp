@@ -5,7 +5,7 @@ import json
 from groq import Groq
 
 load_dotenv()
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(api_key="sk_neVud8MFlBCqE5ukVCxhWGdyb3FYq4j39qWNxcip488iLNsuFqn4")
 
 def create_aes_prompt(question, answer):
     return f"""
