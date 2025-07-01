@@ -3,8 +3,7 @@ psycopg2-binary==2.9.10
 python-dotenv==1.1.1
 pandas==2.3.0
 openai==1.92.0
-transformers
-torch
+groq
 scikit-learn
 plotly
 matplotlib
