@@ -1,0 +1,8 @@
+streamlit==1.46.1
+psycopg2-binary==2.9.10
+python-dotenv==1.1.1
+pandas==2.3.0
+openai==1.92.0
+transformers
+torch
+scikit-learn
